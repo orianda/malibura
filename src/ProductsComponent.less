@@ -1,0 +1,115 @@
+@import "themes";
+
+.products {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: flex-start;
+  align-items: stretch;
+  gap: 1em;
+  margin: 0;
+  padding: 1em;
+  list-style: none;
+  text-align: center;
+
+  > li {
+    flex-basis: 0;
+    flex-grow: 1;
+    flex-shrink: 1;
+    margin: 0;
+    padding: 0;
+    min-width: 8.5em;
+    max-width: 12em;
+
+    > a {
+      position: relative;
+      display: block;
+      border: .0625em solid #0002;
+      border-radius: .5em;
+      padding: 1em;
+      min-height: 100%;
+      box-sizing: border-box;
+      box-shadow: 0 .0625em .25em 0 #0003;
+      overflow: hidden;
+      text-decoration: none;
+      color: inherit;
+
+      &[data-ibu^="1"] {
+        background-color: @ibu-bg1;
+      }
+
+      &[data-ibu^="2"] {
+        background-color: @ibu-bg2;
+      }
+
+      &[data-ibu^="3"] {
+        background-color: @ibu-bg3;
+      }
+
+      &[data-ibu^="4"] {
+        background-color: @ibu-bg4;
+      }
+
+      &[data-ibu^="5"] {
+        background-color: @ibu-bg5;
+      }
+
+      &[data-ibu^="6"] {
+        background-color: @ibu-bg6;
+      }
+
+      &[data-ibu^="7"] {
+        background-color: @ibu-bg7;
+      }
+
+      &[data-ibu^="8"] {
+        background-color: @ibu-bg8;
+      }
+
+      &[data-ibu^="9"] {
+        background-color: @ibu-bg9;
+      }
+
+      > img {
+        display: block;
+        width: 100%;
+        height: 9em;
+        object-fit: contain;
+      }
+
+      > header {
+        display: block;
+        margin: .5em 0 0;
+        font-weight: bold;
+        line-height: 1.25em;
+      }
+
+      > .ibu {
+        position: absolute;
+        top: 8em;
+        left: 0;
+      }
+
+      > aside {
+        position: absolute;
+        top: 0;
+        right: 0;
+        border-width: 2em 2.5em;
+        border-style: solid;
+        border-color: #03a #03a transparent transparent;
+        width: 0;
+        height: 0;
+        font-size: .75em;
+        color: #fff;
+
+        > div {
+          position: absolute;
+          top: -1.25em;
+          right: -2.25em;
+          transform: rotate(40deg);
+        }
+      }
+    }
+  }
+}
