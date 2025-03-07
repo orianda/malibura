@@ -1,0 +1,202 @@
+{
+  "record": [
+    {
+      "id": 1,
+      "name": "Punk IPA",
+      "ibu": 55,
+      "abv": 5.6,
+      "description": "Post-punk, pre-apocalyptic, suitably themed...",
+      "image_url": "https://mfreitas.sytes.net/images/192.png"
+    },
+    {
+      "id": 2,
+      "name": "Dead Pony Club",
+      "ibu": 40,
+      "abv": 3.8,
+      "description": "A beer for the people, by the people...",
+      "image_url": "https://mfreitas.sytes.net/images/44.png"
+    },
+    {
+      "id": 3,
+      "name": "The Physic",
+      "ibu": 45,
+      "abv": 4.2,
+      "description": "The Physic beer...",
+      "image_url": "https://mfreitas.sytes.net/images/45.png"
+    },
+    {
+      "id": 4,
+      "name": "Anarchism Alchemist",
+      "ibu": 42,
+      "abv": 2.4,
+      "description": "Anarchism Alchemist",
+      "image_url": "https://mfreitas.sytes.net/images/46.png"
+    },
+    {
+      "id": 5,
+      "name": "Midnight Stout",
+      "ibu": 55,
+      "abv": 6.8,
+      "description": "A rich and robust stout with flavors of coffee and chocolate.",
+      "image_url": "https://mfreitas.sytes.net/images/47.png"
+    },
+    {
+      "id": 6,
+      "name": "Golden Ale",
+      "ibu": 30,
+      "abv": 4.5,
+      "description": "A crisp and refreshing ale with hints of citrus and floral notes.",
+      "image_url": "https://mfreitas.sytes.net/images/48.png"
+    },
+    {
+      "id": 7,
+      "name": "Hoppy IPA",
+      "ibu": 70,
+      "abv": 7.2,
+      "description": "A bold and hop-forward IPA bursting with tropical fruit flavors.",
+      "image_url": "https://mfreitas.sytes.net/images/49.png"
+    },
+    {
+      "id": 8,
+      "name": "Saison Sunshine",
+      "ibu": 40,
+      "abv": 5.3,
+      "description": "A light and refreshing saison with a hint of peppery spice.",
+      "image_url": "https://mfreitas.sytes.net/images/50.png"
+    },
+    {
+      "id": 9,
+      "name": "Oak Barrel Amber",
+      "ibu": 35,
+      "abv": 6,
+      "description": "An amber ale aged in oak barrels, imparting notes of vanilla and caramel.",
+      "image_url": "https://mfreitas.sytes.net/images/51.png"
+    },
+    {
+      "id": 10,
+      "name": "Hazy Pale Ale",
+      "ibu": 40,
+      "abv": 5.5,
+      "description": "A hazy and juicy pale ale with aromas of tropical fruits and a soft mouthfeel.",
+      "image_url": "https://mfreitas.sytes.net/images/52.png"
+    },
+    {
+      "id": 11,
+      "name": "Belgian Tripel",
+      "ibu": 35,
+      "abv": 8,
+      "description": "A classic Belgian tripel with complex flavors of spice, fruit, and malt.",
+      "image_url": "https://mfreitas.sytes.net/images/51.png"
+    },
+    {
+      "id": 12,
+      "name": "Citra Smash",
+      "ibu": 45,
+      "abv": 5.2,
+      "description": "A single hop smash beer showcasing the bright and citrusy flavors of Citra hops.",
+      "image_url": "https://mfreitas.sytes.net/images/54.png"
+    },
+    {
+      "id": 13,
+      "name": "Irish Red",
+      "ibu": 25,
+      "abv": 4.8,
+      "description": "A smooth and malty Irish red ale with a touch of sweetness.",
+      "image_url": "https://mfreitas.sytes.net/images/55.png"
+    },
+    {
+      "id": 14,
+      "name": "Chocolate Porter",
+      "ibu": 40,
+      "abv": 6.5,
+      "description": "A rich and decadent porter with flavors of dark chocolate and roasted coffee.",
+      "image_url": "https://mfreitas.sytes.net/images/56.png"
+    },
+    {
+      "id": 15,
+      "name": "Tropical Gose",
+      "ibu": 20,
+      "abv": 4,
+      "description": "A tart and refreshing gose brewed with tropical fruits and sea salt.",
+      "image_url": "https://mfreitas.sytes.net/images/57.png"
+    },
+    {
+      "id": 16,
+      "name": "Mosaic Session",
+      "ibu": 30,
+      "abv": 4.2,
+      "description": "A sessionable pale ale showcasing the vibrant and fruity flavors of Mosaic hops.",
+      "image_url": "https://mfreitas.sytes.net/images/58.png"
+    },
+    {
+      "id": 17,
+      "name": "Imperial Stout",
+      "ibu": 70,
+      "abv": 10,
+      "description": "A bold and intense imperial stout with notes of dark chocolate and espresso.",
+      "image_url": "https://mfreitas.sytes.net/images/59.png"
+    },
+    {
+      "id": 18,
+      "name": "Raspberry Wheat",
+      "ibu": 25,
+      "abv": 5,
+      "description": "A refreshing wheat beer brewed with fresh raspberries for a hint of tartness.",
+      "image_url": "https://mfreitas.sytes.net/images/60.png"
+    },
+    {
+      "id": 19,
+      "name": "Caramel Cream Ale",
+      "ibu": 35,
+      "abv": 5.3,
+      "description": "A smooth and creamy ale with flavors of caramel and vanilla.",
+      "image_url": "https://mfreitas.sytes.net/images/61.png"
+    },
+    {
+      "id": 20,
+      "name": "Pacific Pale",
+      "ibu": 40,
+      "abv": 5,
+      "description": "A pale ale brewed with Pacific hops for a bright and citrusy flavor profile.",
+      "image_url": "https://mfreitas.sytes.net/images/62.png"
+    },
+    {
+      "id": 21,
+      "name": "Sour Cherry Gose",
+      "ibu": 15,
+      "abv": 4.2,
+      "description": "A sour and fruity gose brewed with tart cherries and a touch of sea salt.",
+      "image_url": "https://mfreitas.sytes.net/images/63.png"
+    },
+    {
+      "id": 22,
+      "name": "Czech Pilsner",
+      "ibu": 35,
+      "abv": 4.8,
+      "description": "A crisp and clean pilsner with a slightly spicy hop character.",
+      "image_url": "https://mfreitas.sytes.net/images/64.png"
+    },
+    {
+      "id": 23,
+      "name": "Oatmeal Stout",
+      "ibu": 40,
+      "abv": 5.5,
+      "description": "A smooth and velvety stout brewed with oats for added creaminess.",
+      "image_url": "https://mfreitas.sytes.net/images/90.png"
+    },
+    {
+      "id": 24,
+      "name": "Honey Wheat",
+      "ibu": 30,
+      "abv": 4.7,
+      "description": "A wheat beer brewed with honey for a touch of sweetness and floral aroma.",
+      "image_url": "https://mfreitas.sytes.net/images/66.png"
+    }
+  ],
+  "metadata": {
+    "id": "6630fd9be41b4d34e4ecd1f9",
+    "private": false,
+    "createdAt": "2024-04-30T14:18:03.658Z",
+    "name": "Beers"
+  }
+}
