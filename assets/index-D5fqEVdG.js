@@ -50,7 +50,7 @@ function print() { __p += __j.call(arguments, '') }
 </dl>`,or=()=>`
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right">
   <polyline points="9 18 15 12 9 6"></polyline>
-</svg>`,w_=new Intl.NumberFormat(void 0,{localeMatcher:"best fit",style:"percent",minimumFractionDigits:1,maximumFractionDigits:1}),_o=R=>w_.format(R/100);let Oi;const vo=()=>(Oi??(Oi=(async()=>{try{return(await(await fetch("/malibura/products.json")).json()).record}catch{Oi=void 0}})()),Oi),x_=async R=>(await vo()).find(o=>o.id===R),m_={BASE_URL:"/malibura/"},{BASE_URL:Pi}=m_,y_=()=>`
+</svg>`,w_=new Intl.NumberFormat(void 0,{localeMatcher:"best fit",style:"percent",minimumFractionDigits:1,maximumFractionDigits:1}),_o=R=>w_.format(R/100);let Oi;const vo=()=>(Oi??(Oi=(async()=>{try{return(await(await fetch("https://api.jsonbin.io/v3/b/6630fd9be41b4d34e4ecd1f9")).json()).record}catch{Oi=void 0}})()),Oi),x_=async R=>(await vo()).find(o=>o.id===R),m_={BASE_URL:"/malibura/"},{BASE_URL:Pi}=m_,y_=()=>`
 <section aria-hidden="true" class="popup">
   <div>
     <div>
